@@ -88,4 +88,4 @@ await registerHotkey("Command", onToggle); // macOS
 
 ## 许可证
 
-GNU General Public License v3.0
+MIT License
